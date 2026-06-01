@@ -3,6 +3,8 @@
 
 # Virtual environment
 .venv/
+.uv-cache/
+.uv-python/
 
 # Python cache
 pycache/
